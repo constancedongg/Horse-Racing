@@ -5,6 +5,6 @@ Use various machine learning algorithms to predict horse racing results includin
 
 The dataset is from kaggle (www.kaggle.com/lantanacamara/hong-kong-horse-racing) which is extracted from the website of the Hong Kong Jockey Club. The file race-result-race.csv describes the races. Each entry in another file race-result-horse.csv corresponds to one horse in a race. There are in totol 30189 racing records and 19 variables.
 
-For details of the project, please refer to Horse_Racing.ipynb, it contains detailed explanation and conclusion of this project.
+For details of the project, please refer to Horse_Racing.ipynb (python3.7), it contains detailed explanation and conclusion of this project.
 
 
